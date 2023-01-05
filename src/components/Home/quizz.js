@@ -65,7 +65,7 @@ const questions =
     },
     {
         step:8,           
-        question : "من سجل أسرع هدف سجل في تاريخ الدوري الإنجليزي؟",
+        question : "من سجل أسرع هدف في تاريخ الدوري الإنجليزي؟",
         choice1: "Mo Salah",
         choice2: "Kun Aguero",
         choice3: "Shane Long",
